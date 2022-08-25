@@ -1,7 +1,7 @@
 # Registration_System
 
 ## How to use
- - Run the main.cpp with the other files in the same directory
+ - Run the main.cpp file
  
  ## Features
   - Registration / login system
